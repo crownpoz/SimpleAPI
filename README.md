@@ -9,7 +9,6 @@ Simple HTTP API for playing with `User` model.
 
 - `base.py`: base of all models of the API - handle serialization to file
 - `user.py`: user model
-
 ### `api/v1`
 
 - `app.py`: entry point of the API
